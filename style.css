@@ -1,0 +1,25 @@
+body{
+    background-size:cover;
+}
+.header{
+    margin-top:0px;
+    width:100%;
+    font-size:23px;
+}
+#note{
+    font-size:18px;
+}
+#object_input{
+    width:25%;
+    height:30px;
+    border-radius: 10px;
+}
+#status, #is_objct_fnd{
+    font-weight: bold;
+    font-size:14px;
+}
+canvas{
+    box-shadow: 10px, 10px, 10px, grey;
+    border: 10px, solid,  white;
+    border-radius: 25px;
+}
